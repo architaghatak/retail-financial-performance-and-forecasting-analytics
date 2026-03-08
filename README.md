@@ -1,9 +1,9 @@
 # Retail Financial Performance & Forecasting Analytics
 
-End-to-end business intelligence project analyzing retail financial performance using SQL, Python forecasting models, and Power BI dashboards.
+End-to-end business intelligence project analyzing retail financial performance using SQL, Python forecasting models and Power BI dashboards.
 
 ## Tools & Technologies
-- SQL (MySQL) – Data cleaning, transformation, and aggregation
+- SQL (MySQL) – Data cleaning, transformation and aggregation
 - Python (Pandas, Statsmodels) – Time-series forecasting using SARIMA and Holt-Winters
 - Power BI – Interactive dashboards and financial performance visualization
 
